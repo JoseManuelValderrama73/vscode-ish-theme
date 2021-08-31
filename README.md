@@ -2,7 +2,7 @@
 
 - This is a simple and elegant theme based on the iSH app built for iOS and iPadOS.
 
-![](Images/i7.jpg)
+![i7](https://user-images.githubusercontent.com/87379673/131516809-88d6a033-d524-4701-b057-cf2150209d6a.jpg)
 
 **PYTHON**
 
@@ -11,22 +11,21 @@
 **CONFIG FILE**  
 Orange debugging bottom bar
 
-![](Images/i2.png)
+![i2](https://user-images.githubusercontent.com/87379673/131516755-aae04f60-52c7-4257-8ca5-50567082d615.png)
 
 **C++**
 
-![](Images/i3.png)
+![i3](https://user-images.githubusercontent.com/87379673/131516767-b0509631-22b7-4eb6-b86c-1055860f630d.png)
 
 **HTML**
 
-![](Images/i4.png)
+![i4](https://user-images.githubusercontent.com/87379673/131516779-269aef3d-94d3-435e-b810-4eb5c8bcdc42.png)
 
 **JAVASCRIPT**
-
-![](Images/i5.png)
+![i5](https://user-images.githubusercontent.com/87379673/131516788-7f5362d8-7d6f-422b-b124-441bea9d0f5b.png)
 
 **DART (FLUTTER)**
-![](Images/i8.png)
+![i8](https://user-images.githubusercontent.com/87379673/131516844-75bd3b8e-e095-49ac-ab9e-8cec7c9dfbef.png)
 
 ### For more information
 
