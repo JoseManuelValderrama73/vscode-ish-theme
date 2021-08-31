@@ -6,7 +6,7 @@
 
 **PYTHON**
 
-![](Images/i1.png)
+![](/Users/jmvaldesan/ish-dark/Images/i1.png)
 
 **CONFIG FILE**  
 Orange debugging bottom bar
